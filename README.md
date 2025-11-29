@@ -1,6 +1,6 @@
 # sql-data-warehouse_project
 
-Welcome to the ** Data Warehouse and analutics Project** repository 🚀
+Welcome to the **Data Warehouse and analutics Project** repository 🚀
 Building a modern data warehouse with SQL server, incuding ETL processes, data modeling, and analytics.
 
 --
