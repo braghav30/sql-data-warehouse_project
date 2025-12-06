@@ -30,7 +30,10 @@ Thses insights empower stakeholders with key business metrics, enabling strategi
 
 --
 
-## ♦️ License
-This project is licensed under the .li . You are free to use, modify, and share this project with proper attribution.
+## 🛡️ License
+This course is licensed under the @MIT License. You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+Hi there! I'm Raghavendra Birajdar. I’m an IT professional passionate about data insights—love exploring data, understanding business needs, and making data work engaging and enjoyable!
 
   
